@@ -1,6 +1,6 @@
 # vue2-tmpl
 
-> A Vue.js project create by vue-cli
+> A Vue.js project created by vue-cli
 
 ## Build Setup
 
